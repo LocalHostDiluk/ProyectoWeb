@@ -147,7 +147,7 @@ Mensajes
 
 Para que funcione correctamente:
 
-    Google reCAPTCHA v3 debe estar configurado con el sitekey y secret.
+    Google reCAPTCHA v2 debe estar configurado con el sitekey y secret.
 
     Firebase Auth debe estar habilitado en el proyecto de Firebase.
 
